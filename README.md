@@ -1,4 +1,4 @@
-### Hi there 👋
+👋
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ratpiGene.ratpiGene)
 [![Follow](https://img.shields.io/github/followers/ratpiGene?label=Follow&style=social)](https://github.com/ratpiGene)
